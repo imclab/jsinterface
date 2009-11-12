@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<flex-config>
+  <packages>
+     <package>
+           <string>aw.data</string>
+            <string><![CDATA[Classes for data processing]]></string>
+     </package>
+     <package>
+           <string>aw.data.json</string>
+            <string><![CDATA[Additional classes for processing of JSON data]]></string>
+     </package>
+     <package>
+           <string>aw.errors</string>
+            <string><![CDATA[Error classes]]></string>
+     </package>
+     <package>
+           <string>aw.external</string>
+            <string><![CDATA[Classes for the interaction with the external environment, including JSInterface classes]]></string>
+     </package>
+     <package>
+           <string>aw.external.jsinterface</string>
+            <string><![CDATA[The main classes of the JSInterface library]]></string>
+     </package>
+     <package>
+           <string>aw.external.jsinterface.objects</string>
+            <string><![CDATA[Classes forming typification of JavaScript objects]]></string>
+     </package>
+     <package>
+           <string>aw.system</string>
+            <string><![CDATA[Classes for work with the system objects]]></string>
+     </package>
+     <package>
+           <string>aw.utils</string>
+            <string><![CDATA[Classes and utilities, often used operations]]></string>
+     </package>
+     <package>
+           <string>aw.utils.eval</string>
+            <string><![CDATA[Classes needed for aw.utils.EvalUtils and aw.data.JSON.]]></string>
+     </package>
+     <package>
+           <string>aw.utils.iteration</string>
+            <string><![CDATA[Classes working in iterations]]></string>
+     </package>
+     <package>
+           <string>aw.utils.propertyinspector</string>
+            <string><![CDATA[Additional classes of PropertyInspector]]></string>
+     </package>
+  </packages> 
+</flex-config>

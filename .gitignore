@@ -1,0 +1,15 @@
+# global
+*.log
+*.svn
+*.class
+*.vms
+*.DS_Store
+
+# bin
+bin/axiis.swc
+docs/*
+Examples/ActionScript/bin-debug/*.swf
+Examples/ActionScript/bin-release/*.swf
+Examples/JavaScript/bin-debug/*.swf
+Examples/JavaScript/bin-release/*.swf
+Examples/JSICustomExamples/bin-debug/*.swf

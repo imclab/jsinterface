@@ -1,0 +1,18 @@
+h1. JSI - JavaScript Interface
+
+JSInterface is a bridge between ActionScript and JavaScript.
+
+It was written in Russion by Burdiuz, who I can't find any information about.
+
+"Online Documentation":http://code.google.com/p/jsinterface/wiki/help_english
+"Download Documentation":http://jsinterface.googlecode.com/files/ASDoc_english.zip
+
+h3. Tutorials
+
+# "Know when Browser loses focus":http://cookbooks.adobe.com/index.cfm?event=showdetails&postId=14527
+# "Message about unsaved data before closing the browser window":http://cookbooks.adobe.com/index.cfm?event=showdetails&postId=14528
+# "Loading of additional JS and CSS files in the HTML document":http://cookbooks.adobe.com/index.cfm?event=showdetails&postId=14529
+# "Embed JavaScript code directly into Flex":http://cookbooks.adobe.com/index.cfm?event=showdetails&postId=14530
+# "Change HTML Background Color":http://cookbooks.adobe.com/index.cfm?event=showdetails&postId=14531
+
+Thank's to "wellgames":http://www.wellgames.com for documentation translation!

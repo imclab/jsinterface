@@ -6,7 +6,7 @@
 *.DS_Store
 
 # bin
-bin/axiis.swc
+bin/jsinterface.swc
 docs/*
 Examples/ActionScript/bin-debug/*.swf
 Examples/ActionScript/bin-release/*.swf

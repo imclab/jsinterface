@@ -2,7 +2,7 @@ h1. JSI - JavaScript Interface
 
 JSInterface is a bridge between ActionScript and JavaScript.
 
-It was written in Russion by Burdiuz, who I can't find any information about.
+It was written in Russion by Burdiuz, or "Oleg Galaburda":http://www.vimeo.com/2919140, from Ukraine.
 
 "Online Documentation":http://code.google.com/p/jsinterface/wiki/help_english
 "Download Documentation":http://jsinterface.googlecode.com/files/ASDoc_english.zip
